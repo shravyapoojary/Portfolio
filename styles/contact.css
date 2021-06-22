@@ -86,3 +86,8 @@ body {
     color: rgb(132, 76, 230);
     transform: translateY(5px);
 }
+@media(max-width:600px){
+  .cards{
+    width:auto;
+  }
+}
